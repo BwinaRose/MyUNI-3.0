@@ -43,7 +43,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.65409203648686753" green="0.50462367070958369" blue="0.68606298575129532" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.81745368101391791" green="0.77139333693229328" blue="0.8613989637305699" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="Q8p-zK-c9m"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Information" image="pencil" catalog="system" id="9b8-Zt-pie"/>
@@ -265,7 +265,6 @@
                         <segue destination="U6v-qz-nqG" kind="relationship" relationship="viewControllers" id="EEa-IR-bpp"/>
                         <segue destination="R0v-Fl-isa" kind="relationship" relationship="viewControllers" id="Frl-YI-pl3"/>
                         <segue destination="v1g-OP-bcS" kind="relationship" relationship="viewControllers" id="5bw-pO-99p"/>
-                        <segue destination="IjN-g9-cUr" kind="relationship" relationship="viewControllers" id="Kgm-k9-LvE"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OXx-l8-Kpj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -312,7 +311,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.54996444818681023" green="0.5505002774503025" blue="0.80995315313339233" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="PLQ-OX-OsQ"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Products/Service" image="cart" catalog="system" id="x0g-u8-HaX"/>
@@ -347,7 +346,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                             </tableView>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.54033551560755433" green="0.73181299689905355" blue="0.96620899438858032" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="Ntw-uI-5Jd"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Fourms" image="text.bubble" catalog="system" id="7eR-3w-mEP"/>
@@ -377,7 +376,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemGreenColor" red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.50214616053212191" green="0.7693973183631897" blue="0.50859465342727395" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="zGi-pS-W3T"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="More" image="ellipsis.circle" catalog="system" id="SdS-4L-mhy"/>
